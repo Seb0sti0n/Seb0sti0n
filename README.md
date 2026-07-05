@@ -35,7 +35,7 @@
 
   <!-- Social -->
   <p align="center">
-  <a href="www.linkedin.com/in/sebastian-guerreroch" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/sebastian-guerreroch" target="blank"><img align="center"
   src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
   alt="linkedin" height="50" width="50" /></a>
   <a href="mailto:sebas.guerrero.ch@gmail.com" target="_blank"><img align="center"
